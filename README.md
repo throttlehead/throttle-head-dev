@@ -11,7 +11,7 @@ A home on the web for the works and musings of a ThrottleHead web developer.
 
 ## Quick start
 
-    ```shell
-    npm install
-    npm run develop
-    ```
+```shell
+npm install
+npm run develop
+```
